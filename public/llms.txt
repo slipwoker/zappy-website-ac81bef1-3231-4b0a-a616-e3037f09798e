@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://jenks-productions-ac81bef1.zappy5.app
+https://example.com
 Discover Connecticut&#39;s premier live events and entertainment company. From electrifying shows to unforgettable experiences, explore our 16 annual productions. Get ready to be amazed!
 
 ### Events
-https://jenks-productions-ac81bef1.zappy5.app/events
+https://example.com/events
 Browse an action-packed calendar of 16 annual live shows! Find the best entertainment events 2022 has to offer, from family fun to thrilling spectacles. Book your next great experience now.
 
 ### About
-https://jenks-productions-ac81bef1.zappy5.app/about
+https://example.com/about
 Meet the passionate team behind Connecticut&#39;s most consistent live entertainment series. Learn why our events &amp; entertainment brand is the go-to for thrilling, memorable experiences. Join our story!
 
 ### Contact
-https://jenks-productions-ac81bef1.zappy5.app/contact
+https://example.com/contact
 Ready to elevate your next gathering? Contact Jenks Productions for top-tier entertainment for corporate events or private shows. Let&#39;s create an unforgettable live experience together!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jenks-productions-ac81bef1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jenks-productions-ac81bef1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jenks-productions-ac81bef1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://jenks-productions-ac81bef1.zappy5.app/contact
-- Endpoint: https://jenks-productions-ac81bef1.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Events & Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://jenks-productions-ac81bef1.zappy5.app/sitemap.xml
-- Robots: https://jenks-productions-ac81bef1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://jenks-productions-ac81bef1.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
