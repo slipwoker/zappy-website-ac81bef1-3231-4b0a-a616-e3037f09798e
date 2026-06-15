@@ -1,0 +1,78 @@
+# Jenks Productions — Generative Engine Optimization Map
+
+> An events company based in Connecticut that hosts 16 live shows per year. The brand is centered around live entertainment experiences, with a consistent and active annual programming schedule.
+
+---
+
+## Pages
+
+### Home
+https://jenks-productions-ac81bef1.zappy5.app
+Discover Connecticut&#39;s premier live events and entertainment company. From electrifying shows to unforgettable experiences, explore our 16 annual productions. Get ready to be amazed!
+
+### Events
+https://jenks-productions-ac81bef1.zappy5.app/events
+Browse an action-packed calendar of 16 annual live shows! Find the best entertainment events 2022 has to offer, from family fun to thrilling spectacles. Book your next great experience now.
+
+### About
+https://jenks-productions-ac81bef1.zappy5.app/about
+Meet the passionate team behind Connecticut&#39;s most consistent live entertainment series. Learn why our events &amp; entertainment brand is the go-to for thrilling, memorable experiences. Join our story!
+
+### Contact
+https://jenks-productions-ac81bef1.zappy5.app/contact
+Ready to elevate your next gathering? Contact Jenks Productions for top-tier entertainment for corporate events or private shows. Let&#39;s create an unforgettable live experience together!
+
+## Legal & Policy
+
+### Privacy Policy
+https://jenks-productions-ac81bef1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jenks-productions-ac81bef1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jenks-productions-ac81bef1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://jenks-productions-ac81bef1.zappy5.app/contact
+- Endpoint: https://jenks-productions-ac81bef1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Jenks Productions
+An events company based in Connecticut that hosts 16 live shows per year. The brand is centered around live entertainment experiences, with a consistent and active annual programming schedule.
+
+## Target Audience
+- Event Enthusiasts
+- Corporate Event Planners
+- Family Activity Seekers
+
+## Industry
+Events & Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jenks-productions-ac81bef1.zappy5.app/sitemap.xml
+- Robots: https://jenks-productions-ac81bef1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jenks-productions-ac81bef1.zappy5.app/llms-full.txt
